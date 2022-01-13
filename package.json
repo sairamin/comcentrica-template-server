@@ -13,7 +13,9 @@
   "dependencies": {
     "body-parser": "^1.19.1",
     "cors": "^2.8.5",
+    "dom-parser": "^0.1.6",
     "express": "^4.17.2",
+    "lodash": "^4.17.21",
     "pg": "^8.7.1",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.12.5"
